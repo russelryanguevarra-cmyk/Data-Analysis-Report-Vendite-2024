@@ -72,7 +72,7 @@ Per scaricare il progetto ed eseguire il codice sul tuo computer:
 
 ```bash
 # 1. Clona questo repository
-git clone [INSERISCI_IL_LINK_DEL_TUO_REPO_QUI]
+git clone https://github.com/russelryanguevarra-cmyk/Data-Analysis-Report-Vendite-2024
 
 # 2. Entra nella cartella
 cd [NOME_DELLA_CARTELLA]
