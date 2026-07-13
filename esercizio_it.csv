@@ -1,0 +1,201 @@
+id_ordine,data_ordine,codice_agente,nome_agente,area,codice_cliente,nome_cliente,prodotto,quantita,prezzo_unitario,totale
+ORD1000,2024-11-23,AG001,Rossi Marco,Nord Ovest,CLI001,Clinica Veterinaria Milano,Integratore Articolare,8,33.0,264.0
+ORD1001,2024-02-22,AG005,Marino Luca,Nord Ovest,CLI002,Studio Vet Torino,Probiotico Intestinale,14,11.56,161.84
+ORD1002,2024-02-17,AG002,Bianchi Laura,Nord Est,CLI004,Centro Vet Napoli,Antimicotico Topico,20,10.97,219.4
+ORD1003,2024-04-11,AG005,Marino Luca,Nord Ovest,CLI007,Studio Veterinario Venezia,Shampoo Dermatologico,15,74.0,1110.0
+ORD1004,2024-01-04,AG002,Bianchi Laura,Nord Est,CLI012,Clinica Vet Verona,Antibiotico Orale,11,39.12,430.32
+ORD1005,2024-04-20,AG003,Ferrari Giovanni,Centro,CLI002,Studio Vet Torino,Antiparassitario Spot-On Gatto,13,18.83,244.79
+ORD1006,2024-06-25,AG005,Marino Luca,Nord Ovest,CLI005,Vet Point Bologna,Antiparassitario Spot-On Cane,15,68.06,1020.9
+ORD1007,2024-07-12,AG001,Rossi Marco,Nord Ovest,CLI009,Centro Animali Palermo,Integratore Articolare,20,107.17,2143.4
+ORD1008,2024-07-04,AG005,Marino Luca,Nord Ovest,CLI004,Centro Vet Napoli,Antiparassitario Spot-On Gatto,2,82.06,164.12
+ORD1009,2024-05-28,AG001,Rossi Marco,Nord Ovest,CLI014,Ambulatorio Vet Catania,Shampoo Dermatologico,4,50.57,202.28
+ORD1010,2024-08-20,AG003,Ferrari Giovanni,Centro,CLI003,Ambulatorio Animali Roma,Vaccino Polivalente Cane,12,31.46,377.52
+ORD1011,2024-05-16,AG001,Rossi Marco,Nord Ovest,CLI010,Vet Clinic Bari,Collare Antiparassitario,18,89.66,1613.88
+ORD1012,2024-03-24,AG004,Conti Sara,Sud,CLI007,Studio Veterinario Venezia,Integratore Articolare,18,32.6,586.8
+ORD1013,2024-06-15,AG001,Rossi Marco,Nord Ovest,CLI004,Centro Vet Napoli,Antiparassitario Spot-On Cane,11,52.93,582.23
+ORD1014,03/02/2024,AG002,Bianchi Laura,Nord Est,CLI015,Vet Center Trieste,Probiotico Intestinale,11,31.81,349.91
+ORD1015,2024-09-12,AG004,Conti Sara,Sud,CLI015,Vet Center Trieste,Antinfiammatorio Iniettabile,5,37.67,188.35
+ORD1016,2024-05-06,AG005,Marino Luca,Nord Ovest,CLI009,Centro Animali Palermo,Integratore Articolare,19,55.98,1063.62
+ORD1017,2024-10-25,AG004,Conti Sara,Sud,CLI006,Clinica Vet Firenze,Shampoo Dermatologico,5,65.07,325.35
+ORD1018,2024-02-16,AG001,Rossi Marco,Nord Ovest,CLI014,Ambulatorio Vet Catania,Antiparassitario Spot-On Gatto,5,78.27,391.35
+ORD1019,2024-12-14,AG004,Conti Sara,Sud,CLI010,Vet Clinic Bari,Antiparassitario Spot-On Gatto,13,50.74,659.62
+ORD1020,2024-08-27,AG005,Marino Luca,Nord Ovest,CLI005,Vet Point Bologna,Antimicotico Topico,1,84.19,84.19
+ORD1021,2024-02-28,AG005,Marino Luca,Nord Ovest,CLI013,Studio Vet Padova,Integratore Articolare,11,20.49,225.39
+ORD1022,2024-08-10,AG002,Bianchi Laura,Nord Est,CLI008,Ambulatorio Vet Genova,Antiparassitario Spot-On Cane,9,116.85,1051.65
+ORD1023,2024-04-01,AG005,Marino Luca,Nord Ovest,CLI015,Vet Center Trieste,Antiparassitario Spot-On Gatto,10,102.27,1022.7
+ORD1024,2024-09-16,AG005,Marino Luca,Nord Ovest,CLI004,Centro Vet Napoli,Collare Antiparassitario,12,93.4,1120.8
+ORD1025,2024-10-03,AG005,Marino Luca,Nord Ovest,CLI015,Vet Center Trieste,Antiparassitario Spot-On Cane,20,44.31,886.2
+ORD1026,2024-01-10,AG001,Rossi Marco,Nord Ovest,CLI015,Vet Center Trieste,Vaccino Polivalente Cane,10,34.82,348.2
+ORD1027,2024-05-03,AG005,Marino Luca,Nord Ovest,CLI002,Studio Vet Torino,Antiparassitario Spot-On Gatto,16,99.39,1590.24
+ORD1028,2024-09-29,AG002,Bianchi Laura,Nord Est,CLI003,Ambulatorio Animali Roma,Antinfiammatorio Iniettabile,18,26.49,476.82
+ORD1029,2024-09-27,AG005,Marino Luca,Nord Ovest,CLI007,Studio Veterinario Venezia,Shampoo Dermatologico,18,92.59,1666.62
+ORD1030,2024-12-19,AG002,Bianchi Laura,Nord Est,CLI012,Clinica Vet Verona,Integratore Articolare,13,119.46,1552.98
+ORD1031,2024-11-28,AG003,Ferrari Giovanni,Centro,CLI008,Ambulatorio Vet Genova,Antimicotico Topico,15,21.55,323.25
+ORD1032,2024-04-25,AG001,Rossi Marco,Nord Ovest,CLI006,Clinica Vet Firenze,Antiparassitario Spot-On Cane,19,70.04,1330.76
+ORD1033,2024-10-28,AG002,rossi marco,Nord Est,CLI001,Clinica Veterinaria Milano,Antiparassitario Spot-On Gatto,2,33.64,67.28
+ORD1034,2024-01-17,AG003,Ferrari Giovanni,Centro,CLI002,Studio Vet Torino,Antimicotico Topico,8,39.19,313.52
+ORD1035,2024-09-05,AG002,Bianchi Laura,Nord Est,CLI009,Centro Animali Palermo,Collare Antiparassitario,19,72.54,1378.26
+ORD1036,2024-05-04,AG004,Conti Sara,Sud,CLI013,Studio Vet Padova,Antibiotico Orale,7,18.56,129.92
+ORD1037,2024-12-03,AG004,Conti Sara,Sud,CLI006,Clinica Vet Firenze,Antibiotico Orale,14,60.31,844.34
+ORD1038,2024-01-28,AG001,Rossi Marco,Nord Ovest,CLI001,Clinica Veterinaria Milano,Antibiotico Orale,11,97.67,1074.37
+ORD1039,2024-02-25,AG002,Bianchi Laura,Nord Est,CLI004,Centro Vet Napoli,Shampoo Dermatologico,18,58.24,1048.32
+ORD1040,2024-08-04,AG002,Bianchi Laura,Nord Est,CLI005,Vet Point Bologna,Antinfiammatorio Iniettabile,8,105.94,847.52
+ORD1041,2024-02-08,AG004,Conti Sara,Sud,CLI013,Studio Vet Padova,Antimicotico Topico,4,13.67,54.68
+ORD1042,2024-10-03,AG001,Rossi Marco,Nord Ovest,CLI002,Studio Vet Torino,Shampoo Dermatologico,6,53.52,321.12
+ORD1043,2024-09-03,AG002,Bianchi Laura,Nord Est,CLI014,Ambulatorio Vet Catania,Antibiotico Orale,2,26.44,52.88
+ORD1044,2024-01-02,AG004,Conti Sara,Sud,CLI005,Vet Point Bologna,Antinfiammatorio Iniettabile,10,55.38,553.8
+ORD1045,2024-10-11,AG004,Conti Sara,Sud,CLI003,Ambulatorio Animali Roma,Shampoo Dermatologico,10,32.38,323.8
+ORD1046,2024-01-30,AG005,Marino Luca,Nord Ovest,CLI012,Clinica Vet Verona,Antimicotico Topico,2,91.77,183.54
+ORD1047,2024-01-30,AG001,Rossi Marco,Nord Ovest,CLI010,Vet Clinic Bari,Antinfiammatorio Iniettabile,17,110.97,1886.49
+ORD1048,2024-09-28,AG002,Bianchi Laura,Nord Est,CLI001,Clinica Veterinaria Milano,Antimicotico Topico,3,103.35,310.05
+ORD1049,2024-02-05,AG005,Marino Luca,Nord Ovest,CLI002,Studio Vet Torino,Shampoo Dermatologico,13,21.43,278.59
+ORD1050,2024-10-18,AG002,Bianchi Laura,Nord Est,CLI010,Vet Clinic Bari,Probiotico Intestinale,2,77.37,154.74
+ORD1051,2024-08-02,AG005,Marino Luca,Nord Ovest,CLI010,Vet Clinic Bari,Antimicotico Topico,11,112.69,1239.59
+ORD1052,2024-04-14,AG003,Ferrari Giovanni,Centro,CLI004,Centro Vet Napoli,Integratore Articolare,13,22.66,294.58
+ORD1053,2024-11-26,AG003,Ferrari Giovanni,Centro,CLI008,Ambulatorio Vet Genova,Vaccino Polivalente Cane,3,9.04,27.12
+ORD1054,2024-11-14,AG005,Marino Luca,Nord Ovest,CLI002,Studio Vet Torino,Antiparassitario Spot-On Gatto,18,31.87,573.66
+ORD1055,2024-05-15,AG002,Bianchi Laura,Nord Est,CLI015,Vet Center Trieste,Vaccino Polivalente Cane,3,106.48,319.44
+ORD1056,2024-07-08,AG003,Ferrari Giovanni,Centro,CLI003,Ambulatorio Animali Roma,Antinfiammatorio Iniettabile,18,86.8,1562.4
+ORD1057,2024-11-09,AG005,Marino Luca,Nord Ovest,CLI001,Clinica Veterinaria Milano,Antimicotico Topico,10,112.36,1123.6
+ORD1058,2024-02-23,AG002,Bianchi Laura,Nord Est,CLI005,Vet Point Bologna,Antiparassitario Spot-On Gatto,4,91.15,364.6
+ORD1059,2024-03-20,AG003,Ferrari Giovanni,Centro,CLI005,Vet Point Bologna,Probiotico Intestinale,7,88.37,618.59
+ORD1060,2024-04-14,AG003,Ferrari Giovanni,Centro,CLI009,Centro Animali Palermo,Antinfiammatorio Iniettabile,9,109.4,984.6
+ORD1061,2024-01-27,AG001,Rossi Marco,Nord Ovest,CLI011,Ospedale Vet Brescia,Antibiotico Orale,9,12.94,116.46
+ORD1062,2024-06-19,AG002,Bianchi Laura,Nord Est,CLI011,Ospedale Vet Brescia,Integratore Articolare,6,91.02,546.12
+ORD1063,2024-10-09,AG004,Conti Sara,Sud,CLI009,Centro Animali Palermo,Antiparassitario Spot-On Cane,4,16.43,65.72
+ORD1064,2024-12-19,AG002,Bianchi Laura,Nord Est,CLI009,Centro Animali Palermo,Antiparassitario Spot-On Cane,12,73.24,878.88
+ORD1065,2024-03-16,AG004,Conti Sara,Sud,CLI003,Ambulatorio Animali Roma,Antiparassitario Spot-On Cane,10,48.84,488.4
+ORD1066,2024-01-21,AG003,Ferrari Giovanni,Centro,CLI004,Centro Vet Napoli,Shampoo Dermatologico,4,47.61,190.44
+ORD1067,13-10-2024,AG004,Conti Sara,Sud,CLI010,Vet Clinic Bari,Collare Antiparassitario,8,104.84,838.72
+ORD1068,2024-03-31,AG004,Conti Sara,Sud,CLI001,Clinica Veterinaria Milano,Collare Antiparassitario,11,95.63,1051.93
+ORD1069,2024-07-29,AG002,Bianchi Laura,Nord Est,CLI005,Vet Point Bologna,Collare Antiparassitario,4,50.84,203.36
+ORD1070,2024-01-20,AG004,Conti Sara,Sud,CLI004,Centro Vet Napoli,Shampoo Dermatologico,15,47.16,707.4
+ORD1071,2024-04-26,AG002,Bianchi Laura,Nord Est,CLI001,Clinica Veterinaria Milano,Shampoo Dermatologico,13,44.77,582.01
+ORD1072,2024-02-05,AG003,Ferrari Giovanni,Centro,CLI006,Clinica Vet Firenze,Antimicotico Topico,13,84.11,1093.43
+ORD1073,2024-10-01,AG003,Ferrari Giovanni,Centro,CLI001,Clinica Veterinaria Milano,Antiparassitario Spot-On Gatto,9,28.0,252.0
+ORD1074,2024-05-15,AG001,Rossi Marco,Nord Ovest,CLI002,Studio Vet Torino,Probiotico Intestinale,14,46.72,654.08
+ORD1075,2024-06-09,AG004,Conti Sara,Sud,CLI010,Vet Clinic Bari,Antimicotico Topico,4,51.14,204.56
+ORD1076,2024-10-22,AG002,Bianchi Laura,Nord Est,CLI005,Vet Point Bologna,Antiparassitario Spot-On Cane,14,8.19,114.66
+ORD1077,2024-10-02,AG002,Bianchi Laura,Nord Est,CLI006,Clinica Vet Firenze,Antibiotico Orale,3,114.27,342.81
+ORD1078,2024-06-18,AG005,Marino Luca,Nord Ovest,CLI006,Clinica Vet Firenze,Antiparassitario Spot-On Gatto,10,64.8,648.0
+ORD1079,2024-12-07,AG004,Conti Sara,Sud,CLI006,Clinica Vet Firenze,Antibiotico Orale,10,70.09,700.9
+ORD1080,2024-04-08,AG004,Conti Sara,Sud,CLI011,Ospedale Vet Brescia,Antibiotico Orale,6,76.94,461.64
+ORD1081,2024-06-03,AG004,Conti Sara,Sud,CLI009,Centro Animali Palermo,Antiparassitario Spot-On Cane,10,40.13,401.3
+ORD1082,2024-08-08,AG005,Marino Luca,Nord Ovest,CLI010,Vet Clinic Bari,Vaccino Polivalente Cane,15,57.48,862.2
+ORD1083,2024-12-11,AG002,Bianchi Laura,Nord Est,CLI009,Centro Animali Palermo,Antinfiammatorio Iniettabile,6,81.79,490.74
+ORD1084,2024-05-25,AG005,Marino Luca,Nord Ovest,CLI011,Ospedale Vet Brescia,Probiotico Intestinale,11,18.46,203.06
+ORD1085,2024-04-30,AG003,Ferrari Giovanni,Centro,CLI004,Centro Vet Napoli,Shampoo Dermatologico,5,10.74,53.7
+ORD1086,2024-05-05,AG004,Conti Sara,Sud,CLI010,Vet Clinic Bari,Antiparassitario Spot-On Gatto,15,54.42,816.3
+ORD1087,2024-11-18,AG005,Marino Luca,Nord Ovest,CLI004,Centro Vet Napoli,Antibiotico Orale,16,52.76,844.16
+ORD1088,2024-03-16,AG001,Rossi Marco,Nord Ovest,CLI015,Vet Center Trieste,Antiparassitario Spot-On Gatto,14,32.51,455.14
+ORD1089,2024-12-22,AG005,BIANCHI LAURA,Nord Ovest,CLI008,Ambulatorio Vet Genova,Antiparassitario Spot-On Cane,18,35.91,646.38
+ORD1090,2024-03-03,AG004,Conti Sara,Sud,CLI003,Ambulatorio Animali Roma,Antinfiammatorio Iniettabile,17,118.64,2016.88
+ORD1091,2024-10-31,AG003,Ferrari Giovanni,Centro,CLI013,Studio Vet Padova,Antinfiammatorio Iniettabile,20,99.28,1985.6
+ORD1092,2024-09-15,AG004,Conti Sara,Sud,CLI014,Ambulatorio Vet Catania,Antimicotico Topico,15,108.49,1627.35
+ORD1093,2024-08-31,AG004,Conti Sara,Sud,CLI005,Vet Point Bologna,Shampoo Dermatologico,9,93.77,843.93
+ORD1094,2024-09-23,AG004,Conti Sara,Sud,CLI011,Ospedale Vet Brescia,Shampoo Dermatologico,9,57.27,515.43
+ORD1095,2024-12-31,AG003,Ferrari Giovanni,Centro,CLI004,Centro Vet Napoli,Integratore Articolare,11,43.81,481.91
+ORD1096,2024-10-03,AG001,Rossi Marco,Nord Ovest,CLI003,Ambulatorio Animali Roma,Collare Antiparassitario,8,50.9,407.2
+ORD1097,2024-03-19,AG002,Bianchi Laura,Nord Est,CLI002,Studio Vet Torino,Antibiotico Orale,14,45.06,630.84
+ORD1098,2024-08-26,AG004,Conti Sara,Sud,CLI001,Clinica Veterinaria Milano,Shampoo Dermatologico,14,51.62,722.68
+ORD1099,2024-10-26,AG001,Rossi Marco,Nord Ovest,CLI014,Ambulatorio Vet Catania,Probiotico Intestinale,13,61.42,798.46
+ORD1100,2024-06-29,AG003,Ferrari Giovanni,Centro,CLI013,Studio Vet Padova,Antibiotico Orale,14,68.28,955.92
+ORD1101,2024-10-06,AG005,Marino Luca,Nord Ovest,CLI015,Vet Center Trieste,Shampoo Dermatologico,16,32.58,521.28
+ORD1102,2024-08-11,AG004,Conti Sara,Sud,CLI001,Clinica Veterinaria Milano,Antibiotico Orale,11,82.91,912.01
+ORD1103,2024-07-26,AG002,Bianchi Laura,Nord Est,CLI014,Ambulatorio Vet Catania,Antinfiammatorio Iniettabile,5,117.84,589.2
+ORD1104,2024-09-30,AG001,Rossi Marco,Nord Ovest,CLI015,Vet Center Trieste,Antibiotico Orale,19,71.21,1352.99
+ORD1105,2024-01-14,AG001,Rossi Marco,Nord Ovest,CLI011,Ospedale Vet Brescia,Antibiotico Orale,5,105.09,525.45
+ORD1106,2024-04-03,AG001,Rossi Marco,Nord Ovest,CLI005,Vet Point Bologna,Antibiotico Orale,11,31.71,348.81
+ORD1107,2024-06-16,AG003,Ferrari Giovanni,Centro,CLI013,Studio Vet Padova,Antibiotico Orale,9,92.23,830.07
+ORD1108,2024-08-03,AG003,Ferrari Giovanni,Centro,CLI014,Ambulatorio Vet Catania,Antiparassitario Spot-On Gatto,16,10.17,162.72
+ORD1109,2024-10-03,AG001,Rossi Marco,Nord Ovest,CLI006,Clinica Vet Firenze,Shampoo Dermatologico,3,95.5,286.5
+ORD1110,2024-11-29,AG001,Rossi Marco,Nord Ovest,CLI013,Studio Vet Padova,Antiparassitario Spot-On Cane,8,30.33,242.64
+ORD1111,2024-01-11,AG005,Marino Luca,Nord Ovest,CLI003,Ambulatorio Animali Roma,Shampoo Dermatologico,5,61.04,305.2
+ORD1112,2024-02-28,AG005,Marino Luca,Nord Ovest,CLI004,Centro Vet Napoli,Antinfiammatorio Iniettabile,9,93.89,845.01
+ORD1113,2024-03-26,AG005,Marino Luca,Nord Ovest,CLI010,Vet Clinic Bari,Antiparassitario Spot-On Gatto,6,116.05,696.3
+ORD1114,2024-02-25,AG005,Marino Luca,Nord Ovest,CLI001,Clinica Veterinaria Milano,Integratore Articolare,19,83.86,1593.34
+ORD1115,2024-07-11,AG004,Conti Sara,Sud,CLI012,Clinica Vet Verona,Shampoo Dermatologico,3,74.31,222.93
+ORD1116,2024-11-17,AG002,Bianchi Laura,Nord Est,CLI002,Studio Vet Torino,Integratore Articolare,20,98.22,1964.4
+ORD1117,2024-10-16,AG001,Rossi Marco,Nord Ovest,CLI006,Clinica Vet Firenze,Antimicotico Topico,14,82.09,1149.26
+ORD1118,2024-02-05,AG005,Marino Luca,Nord Ovest,CLI011,Ospedale Vet Brescia,Vaccino Polivalente Cane,1,103.15,103.15
+ORD1119,2024-09-07,AG001,Rossi Marco,Nord Ovest,CLI007,Studio Veterinario Venezia,Vaccino Polivalente Cane,15,87.22,1308.3
+ORD1120,2024-08-10,AG002,Bianchi Laura,Nord Est,CLI012,Clinica Vet Verona,Antimicotico Topico,,76.98,
+ORD1121,2024-10-02,AG004,Conti Sara,Sud,CLI008,Ambulatorio Vet Genova,Antibiotico Orale,19,38.06,723.14
+ORD1122,2024-05-05,AG001,Rossi Marco,Nord Ovest,CLI005,Vet Point Bologna,Antinfiammatorio Iniettabile,8,92.05,736.4
+ORD1123,2024-10-18,AG005,Marino Luca,Nord Ovest,CLI011,Ospedale Vet Brescia,Antibiotico Orale,11,11.21,123.31
+ORD1124,2024-06-15,AG002,Bianchi Laura,Nord Est,CLI008,Ambulatorio Vet Genova,Shampoo Dermatologico,12,97.36,1168.32
+ORD1125,2024-06-23,AG003,Ferrari Giovanni,Centro,CLI015,Vet Center Trieste,Probiotico Intestinale,9,70.25,632.25
+ORD1126,2024-09-21,AG002,Bianchi Laura,Nord Est,CLI002,Studio Vet Torino,Shampoo Dermatologico,14,62.72,878.08
+ORD1127,2024-05-03,AG004,Conti Sara,Sud,CLI011,Ospedale Vet Brescia,Antinfiammatorio Iniettabile,15,96.81,1452.15
+ORD1128,2024-02-17,AG003,Ferrari Giovanni,Centro,CLI004,Centro Vet Napoli,Antibiotico Orale,8,42.3,338.4
+ORD1129,2024-10-24,AG003,Ferrari Giovanni,Centro,CLI008,Ambulatorio Vet Genova,Antimicotico Topico,17,46.5,790.5
+ORD1130,2024-10-08,AG003,Ferrari Giovanni,Centro,CLI006,Clinica Vet Firenze,Antinfiammatorio Iniettabile,9,42.34,381.06
+ORD1131,2024-04-28,AG001,Rossi Marco,Nord Ovest,CLI012,Clinica Vet Verona,Shampoo Dermatologico,11,21.39,235.29
+ORD1132,2024-10-01,AG002,Bianchi Laura,Nord Est,CLI004,Centro Vet Napoli,Shampoo Dermatologico,16,38.97,623.52
+ORD1133,2024-10-28,AG005,Marino Luca,Nord Ovest,CLI010,Vet Clinic Bari,Integratore Articolare,4,101.25,405.0
+ORD1134,2024-05-31,AG002,Bianchi Laura,Nord Est,CLI006,Clinica Vet Firenze,Collare Antiparassitario,10,9.58,95.8
+ORD1135,2024-09-30,AG002,Bianchi Laura,Nord Est,CLI005,Vet Point Bologna,Antiparassitario Spot-On Cane,2,69.98,139.96
+ORD1136,2024-12-23,AG002,Bianchi Laura,Nord Est,CLI011,Ospedale Vet Brescia,Antinfiammatorio Iniettabile,4,105.74,422.96
+ORD1137,2024-10-20,AG003,Ferrari Giovanni,Centro,CLI008,Ambulatorio Vet Genova,Antinfiammatorio Iniettabile,15,46.16,692.4
+ORD1138,2024-01-27,AG003,Ferrari Giovanni,Centro,CLI014,Ambulatorio Vet Catania,Antinfiammatorio Iniettabile,4,100.08,400.32
+ORD1139,2024-07-24,AG004,Conti Sara,Sud,CLI002,Studio Vet Torino,Probiotico Intestinale,2,24.99,49.98
+ORD1140,2024-10-15,AG003,Ferrari Giovanni,Centro,CLI002,Studio Vet Torino,Shampoo Dermatologico,4,70.5,282.0
+ORD1141,2024-08-01,AG005,Marino Luca,Nord Ovest,CLI010,Vet Clinic Bari,Probiotico Intestinale,8,94.88,759.04
+ORD1142,2024-07-13,AG004,Conti Sara,Sud,CLI015,Vet Center Trieste,Antinfiammatorio Iniettabile,10,104.34,1043.4
+ORD1143,2024-08-07,AG003,Ferrari Giovanni,Centro,CLI010,Vet Clinic Bari,Probiotico Intestinale,2,76.28,152.56
+ORD1144,2024-02-20,AG002,Bianchi Laura,Nord Est,CLI011,Ospedale Vet Brescia,Shampoo Dermatologico,9,81.97,737.73
+ORD1145,2024-03-21,AG002,Bianchi Laura,Nord Est,CLI003,Ambulatorio Animali Roma,Antimicotico Topico,3,25.53,76.59
+ORD1146,2024-07-28,AG004,Conti Sara,Sud,CLI012,Clinica Vet Verona,Probiotico Intestinale,16,40.62,649.92
+ORD1147,2024-04-28,AG003,Ferrari Giovanni,Centro,CLI012,Clinica Vet Verona,Integratore Articolare,15,15.97,239.55
+ORD1148,2024-04-29,AG003,Ferrari Giovanni,Centro,CLI013,Studio Vet Padova,Probiotico Intestinale,7,55.62,389.34
+ORD1149,2024-10-05,AG002,Bianchi Laura,Nord Est,CLI011,Ospedale Vet Brescia,Collare Antiparassitario,9,100.58,905.22
+ORD1150,2024-02-06,AG001,Rossi Marco,Nord Ovest,CLI003,Ambulatorio Animali Roma,Integratore Articolare,20,91.88,1837.6
+ORD1151,2024-10-18,AG003,Ferrari Giovanni,Centro,CLI008,Ambulatorio Vet Genova,Antiparassitario Spot-On Gatto,15,85.13,1276.95
+ORD1152,2024-12-24,AG004,Conti Sara,Sud,CLI005,Vet Point Bologna,Antimicotico Topico,18,63.31,1139.58
+ORD1153,2024-02-11,AG005,Marino Luca,Nord Ovest,CLI001,Clinica Veterinaria Milano,Antibiotico Orale,11,75.62,831.82
+ORD1154,2024-01-14,AG001,Rossi Marco,Nord Ovest,CLI004,Centro Vet Napoli,Probiotico Intestinale,19,114.49,2175.31
+ORD1155,2024-12-10,AG003,Ferrari Giovanni,Centro,,,Antiparassitario Spot-On Cane,6,60.7,364.2
+ORD1156,2024-11-29,AG004,Conti Sara,Sud,CLI015,Vet Center Trieste,Integratore Articolare,6,119.66,717.96
+ORD1157,2024-08-11,AG004,Conti Sara,Sud,CLI002,Studio Vet Torino,Antinfiammatorio Iniettabile,12,53.73,644.76
+ORD1158,2024-06-13,AG001,Rossi Marco,Nord Ovest,CLI014,Ambulatorio Vet Catania,Collare Antiparassitario,11,54.1,595.1
+ORD1159,2024-09-10,AG003,Ferrari Giovanni,Centro,CLI011,Ospedale Vet Brescia,Antibiotico Orale,18,12.11,217.98
+ORD1160,2024-02-15,AG003,Ferrari Giovanni,Centro,CLI005,Vet Point Bologna,Vaccino Polivalente Cane,4,116.66,466.64
+ORD1161,2024-07-25,AG005,Marino Luca,Nord Ovest,CLI014,Ambulatorio Vet Catania,Antiparassitario Spot-On Cane,18,59.74,1075.32
+ORD1162,2024-01-28,AG002,Bianchi Laura,Nord Est,CLI009,Centro Animali Palermo,Vaccino Polivalente Cane,20,92.72,1854.4
+ORD1163,2024-11-16,AG004,Conti Sara,Sud,CLI013,Studio Vet Padova,Antiparassitario Spot-On Cane,7,37.91,265.37
+ORD1164,2024-03-08,AG003,Ferrari Giovanni,Centro,CLI008,Ambulatorio Vet Genova,Antinfiammatorio Iniettabile,4,11.23,44.92
+ORD1165,2024-11-18,AG005,Marino Luca,Nord Ovest,CLI013,Studio Vet Padova,Shampoo Dermatologico,6,42.8,256.8
+ORD1166,2024-01-08,AG005,Marino Luca,Nord Ovest,CLI007,Studio Veterinario Venezia,Antiparassitario Spot-On Gatto,8,119.13,953.04
+ORD1167,2024-02-28,AG004,Conti Sara,Sud,CLI002,Studio Vet Torino,Collare Antiparassitario,16,112.46,1799.36
+ORD1168,2024-05-29,AG005,Marino Luca,Nord Ovest,CLI012,Clinica Vet Verona,Integratore Articolare,14,101.49,1420.86
+ORD1169,2024-08-29,AG002,Bianchi Laura,Nord Est,CLI008,Ambulatorio Vet Genova,Antimicotico Topico,5,50.96,254.8
+ORD1170,2024-11-02,AG005,Marino Luca,Nord Ovest,CLI012,Clinica Vet Verona,Collare Antiparassitario,3,38.94,116.82
+ORD1171,2024-07-31,AG003,Ferrari Giovanni,Centro,CLI015,Vet Center Trieste,Antimicotico Topico,9,99.9,899.1
+ORD1172,2024-05-24,AG003,Ferrari Giovanni,Centro,CLI014,Ambulatorio Vet Catania,Probiotico Intestinale,19,119.88,2277.72
+ORD1173,2024-09-07,AG002,Bianchi Laura,Nord Est,CLI008,Ambulatorio Vet Genova,Antimicotico Topico,16,46.65,746.4
+ORD1174,2024-10-09,AG005,Marino Luca,Nord Ovest,CLI007,Studio Veterinario Venezia,Antinfiammatorio Iniettabile,11,105.4,1159.4
+ORD1175,2024-12-23,AG002,Bianchi Laura,Nord Est,CLI010,Vet Clinic Bari,Antibiotico Orale,8,103.87,830.96
+ORD1176,2024-07-29,AG001,Rossi Marco,Nord Ovest,CLI006,Clinica Vet Firenze,Antinfiammatorio Iniettabile,13,51.24,666.12
+ORD1177,2024-12-05,AG002,Bianchi Laura,Nord Est,CLI008,Ambulatorio Vet Genova,Antiparassitario Spot-On Cane,5,64.26,321.3
+ORD1178,2024-10-29,AG003,Ferrari Giovanni,Centro,CLI014,Ambulatorio Vet Catania,Antiparassitario Spot-On Cane ,15,19.17,287.55
+ORD1179,2024-08-21,AG001,Rossi Marco,Nord Ovest,CLI012,Clinica Vet Verona,Collare Antiparassitario,14,105.54,1477.56
+ORD1180,2024-03-20,AG001,Rossi Marco,Nord Ovest,CLI008,Ambulatorio Vet Genova,Integratore Articolare,11,77.81,855.91
+ORD1181,2024-07-22,AG001,Rossi Marco,Nord Ovest,CLI014,Ambulatorio Vet Catania,Vaccino Polivalente Cane,18,50.56,910.08
+ORD1182,2024-06-11,AG004,Conti Sara,Sud,CLI014,Ambulatorio Vet Catania,Antimicotico Topico,2,77.16,154.32
+ORD1183,2024-04-30,AG003,Ferrari Giovanni,Centro,CLI004,Centro Vet Napoli,Antiparassitario Spot-On Gatto,14,117.57,1645.98
+ORD1184,2024-11-20,AG001,Rossi Marco,Nord Ovest,CLI008,Ambulatorio Vet Genova,Collare Antiparassitario,10,109.18,1091.8
+ORD1185,2024-01-24,AG003,Ferrari Giovanni,Centro,CLI013,Studio Vet Padova,Antiparassitario Spot-On Cane,10,48.15,481.5
+ORD1186,2024-08-08,AG002,Bianchi Laura,Nord Est,CLI004,Centro Vet Napoli,Antimicotico Topico,14,71.38,999.32
+ORD1187,2024-04-02,AG002,Bianchi Laura,Nord Est,CLI003,Ambulatorio Animali Roma,Antiparassitario Spot-On Gatto,20,105.53,2110.6
+ORD1188,2024-11-13,AG002,Bianchi Laura,Nord Est,CLI008,Ambulatorio Vet Genova,Probiotico Intestinale,5,34.01,170.05
+ORD1189,2024-11-22,AG003,Ferrari Giovanni,Centro,CLI008,Ambulatorio Vet Genova,Integratore Articolare,1,108.68,108.68
+ORD1190,2024-08-26,AG003,Ferrari Giovanni,Centro,CLI011,Ospedale Vet Brescia,Antimicotico Topico,6,16.27,97.62
+ORD1191,2024-06-25,AG005,Marino Luca,Nord Ovest,CLI005,Vet Point Bologna,Antibiotico Orale,9,59.17,532.53
+ORD1192,2024-06-03,AG002,Bianchi Laura,Nord Est,CLI007,Studio Veterinario Venezia,Antinfiammatorio Iniettabile,4,34.57,138.28
+ORD1193,2024-10-19,AG003,Ferrari Giovanni,Centro,CLI010,Vet Clinic Bari,Integratore Articolare,10,10.46,104.6
+ORD1194,2024-12-03,AG004,Conti Sara,Sud,CLI005,Vet Point Bologna,Antiparassitario Spot-On Cane,19,104.89,1992.91
+ORD1195,2024-01-26,AG005,Marino Luca,Nord Ovest,CLI012,Clinica Vet Verona,Antinfiammatorio Iniettabile,10,94.88,948.8
+ORD1196,2024-04-27,AG005,Marino Luca,Nord Ovest,CLI013,Studio Vet Padova,Vaccino Polivalente Cane,8,79.3,634.4
+ORD1197,2024-11-13,AG003,Ferrari Giovanni,Centro,CLI011,Ospedale Vet Brescia,Collare Antiparassitario,4,109.18,436.72
+ORD1198,2024-11-26,AG001,Rossi Marco,Nord Ovest,CLI005,Vet Point Bologna,Antinfiammatorio Iniettabile,2,72.91,145.82
+ORD1199,2024-03-08,AG001,Rossi Marco,Nord Ovest,CLI015,Vet Center Trieste,Integratore Articolare,11,91.72,1008.92
