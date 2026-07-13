@@ -1,6 +1,6 @@
 # 📊 Analisi Dati di Vendita 2024 - Test Pratico
 
-Questo repository contiene la soluzione del test pratico per la posizione di Data Analyst. 
+Questo repository contiene la soluzione del test pratico. 
 L'obiettivo del progetto è analizzare un file di vendite grezzo (`esercizio_it.csv`), fare pulizia dei dati (Data Cleaning) per correggere gli errori di inserimento, e calcolare i KPI richiesti dal business.
 
 ## 📂 Struttura del Progetto
